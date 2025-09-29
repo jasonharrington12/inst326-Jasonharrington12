@@ -4,3 +4,8 @@ I used ai to help me creating project ideas with claude ai. I asked the ai to cr
 Week 2
 I continued to use ai to help create project idead with claude. I continued to ask ai to create project ideas like last week but gave it key words to try to condense the ideas. I used ai to help me creating project ideas with claude ai. I asked the ai to create project ideas for our topic which is digital archive management system. It created a couple of different suggestions that I will run by with my group the next time we meet up. Here is the url with the questions I asked https://claude.ai/chat/dd15d296-3660-4cdd-be2c-0c710c0de3bd. 
 I also used ChatGPT to help grade and edit a rough draft of mine to make it better.
+
+
+Week 3
+
+I used ai to help me in another class based on SQL to fix a code I was getting errors with and trying to clean the code up. I inserted my code into it and asked for it to review my code and fix my errors and tell me how to make it mroe clear. https://chatgpt.com/c/68d9ebe4-ec84-8333-9dbd-cd2f8c9e7624
