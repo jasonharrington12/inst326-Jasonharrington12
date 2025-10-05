@@ -9,3 +9,8 @@ I also used ChatGPT to help grade and edit a rough draft of mine to make it bett
 Week 3
 
 I used ai to help me in another class based on SQL to fix a code I was getting errors with and trying to clean the code up. I inserted my code into it and asked for it to review my code and fix my errors and tell me how to make it mroe clear. https://chatgpt.com/c/68d9ebe4-ec84-8333-9dbd-cd2f8c9e7624
+
+
+Week 4
+
+I used ai for an assignment in my english class for a discussion showing the different responses from ai and human based responses. I gave the ai a prompt and a language for a way I wanted the ai to respond to the prompt then I had to compare it to my original response to the prompt and find the differences in human responses and ai responses. https://claude.ai/chat/fcb6dfc2-e512-4068-9329-4a187a7865b7
