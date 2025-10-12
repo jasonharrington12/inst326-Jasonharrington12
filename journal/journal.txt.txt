@@ -14,3 +14,7 @@ I used ai to help me in another class based on SQL to fix a code I was getting e
 Week 4
 
 I used ai for an assignment in my english class for a discussion showing the different responses from ai and human based responses. I gave the ai a prompt and a language for a way I wanted the ai to respond to the prompt then I had to compare it to my original response to the prompt and find the differences in human responses and ai responses. https://claude.ai/chat/fcb6dfc2-e512-4068-9329-4a187a7865b7
+
+Week 5
+
+This week I used ai to help create ideas for our group project, Function Library, and to help with assignents in another class. For the group poject I used ai to help create a rating system for the books we plan on adding into our data base. This allow for you pick a book and it would ask you to enter a number 1-5 to rate the book then save it. Some of the prompts I used was to ask how would I conceptually write a code that would add the rating system for the books in our database.  I did this because I was struggling to get the pop up question to import the 1-5 rating. From this I learned that ai can be extremly benefical when writing code and helping create ideas for how to code an idea that you have. I have made the decision to ask ai to help make the code for a entry level python coder so I can understand what it is doing but also to look out for tools that I dont know that I can use in the future. 
