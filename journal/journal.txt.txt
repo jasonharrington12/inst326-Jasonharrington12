@@ -22,3 +22,7 @@ This week I used ai to help create ideas for our group project, Function Library
 Week 7
 
 This week I used ai to help troubleshoot some of the classes I was creating for the project 2 assignment. I also used it when making all of the classes that my group made and got help on how to make them integrated together to make them work well. I also used it in my english class to help with making infographics for an assignment.
+
+Week 8
+
+This week I used ai to help come up with ideas for a paper that I have to write in my english class. I also used it to create an outline to give me a headstart for what to research and write about when I get started writing the paper. I also used it to help normalize data for my sql class as I was struggling with specific parts of normalization.
