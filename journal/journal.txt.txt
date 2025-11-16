@@ -26,3 +26,7 @@ This week I used ai to help troubleshoot some of the classes I was creating for 
 Week 8
 
 This week I used ai to help come up with ideas for a paper that I have to write in my english class. I also used it to create an outline to give me a headstart for what to research and write about when I get started writing the paper. I also used it to help normalize data for my sql class as I was struggling with specific parts of normalization.
+
+Week 9 
+
+This week I used ai for an assignment for a class dealing with SQL. The assignmnet asked us to use ai to see how it would answer our question on the first prompt then as we edited it and compare it to how we would write the query. I also used if for the same paper stated in last weeks to get a better outline and more ideas for stats to put into my paper.
