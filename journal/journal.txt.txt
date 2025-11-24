@@ -30,3 +30,7 @@ This week I used ai to help come up with ideas for a paper that I have to write 
 Week 9 
 
 This week I used ai for an assignment for a class dealing with SQL. The assignmnet asked us to use ai to see how it would answer our question on the first prompt then as we edited it and compare it to how we would write the query. I also used if for the same paper stated in last weeks to get a better outline and more ideas for stats to put into my paper.
+
+Week 10
+
+This week I used ai to help trouble shootwith both my project 3 code and a sql code I had to write for another class. I was able to ask claude different versions of the question to get multiple different outputs to make sure it was producing what I wanted it to produce.
